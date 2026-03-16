@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: |cff00ff00Lizard|r|cffFFFFFFSTB|r |cffAAAAAA(Save This Bar)|r
+## Notes: Save and share action bars across characters.
+## Author: Lizard
+## Version: 1.0
+## SavedVariables: LizardSTB_DB
+
+LizardSTB.lua
